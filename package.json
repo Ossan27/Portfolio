@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Ossan27.github.com/codespaces_train_Ossan",
+  "homepage": "https://Ossan27.github.com/Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Ossan27.github.io/codespaces_train_Ossan'",
+    "build-gh": "parcel build --public-url 'https://Ossan27.github.io/Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
