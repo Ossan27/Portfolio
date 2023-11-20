@@ -27,7 +27,7 @@ const siteProps = {
   name: "Rubén Ossorio",
   title: "PhD Engineer",
   email: "rubenossorio93@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "Ossan27",
   linkedIn: "ruben-ossorio",
   medium: "",
 };

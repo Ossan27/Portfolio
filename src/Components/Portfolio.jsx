@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Oil Circulation in Heat Pumps 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Study of oil circulation rate in variable speed scroll compressor working with propane.",
+    url: "https://doi.org/10.1016/j.ijrefrig.2020.12.002",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Compressor Testing",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Testing of Variable-Speed Scroll Compressors and their inverters for the evaluation of compact energy consumption models.",
+    url: "https://doi.org/10.1016/j.applthermaleng.2023.120725",
   },
   {
-    title: "My Resume Site",
+    title: "Heat Exchanger Design",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A novel methodology to assist manufacturers in the heat exchanger sizing for variable-speed heat pumps based on part load conditions and econom-ic assessment.",
+    url: "https://doi.org/10.1016/j.applthermaleng.2023.120725",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "UPV Researcher",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Researcher at the Universitat Politècnica de València since 2018,  with a PhD in Mechanical Engineering.",
+    url: "https://www.upv.es/ficha-personal/rubossan",
   },
 ];
 
